@@ -1,0 +1,19 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Environment
+.vscode/
+.idea/
+*.swp
+.env
+venv/
+env/
+
+# Game Data (Don't push local high scores to GitHub)
+highscore.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
