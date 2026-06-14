@@ -21,8 +21,8 @@ This project implements several fundamental computer science concepts:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/cyber-runner.git](https://github.com/yourusername/cyber-runner.git)
-   cd cyber-runner
+   git clone [https://github.com/yourusername/cyber-runner-pygame.git](https://github.com/yourusername/cyber-runner-pygame.git)
+   cd cyber-runner-pygame
    ```
 
 2. **Install Dependencies:**
@@ -45,4 +45,12 @@ To run the game with full visual fidelity, ensure the following asset files are 
 *Note: The game features a fallback rendering system. If images are missing, it will automatically render standard brutalist neon geometric shapes instead.*
 
 ---
-**Developed by Eklak Alam**
+
+## 👨‍💻 About the Developer
+
+**Eklak Alam** *Full-Stack Engineer & System Architect*
+
+Building high-performance, cinematic web experiences and robust architectures. When I'm not building 2D physics engines for Code in Place, I'm orchestrating enterprise Agentic AI systems, developing microservices, and building platforms like Gaprio, StackConnect, and Sasta AI.
+
+🌐 **Portfolio:** [eklak.site](https://www.eklak.site/)  
+💼 **LinkedIn:** [linkedin.com/in/eklak-alam](https://www.linkedin.com/in/eklak-alam/) *(Note: Update the exact URL slug if it's different!)* 🚀 **Other Projects:** Feel free to check out my GitHub for more open-source tools, system architecture blueprints, and AI implementations.
