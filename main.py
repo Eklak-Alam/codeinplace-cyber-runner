@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 import os
-12345
+1234
 # 1. Initialization
 pygame.init()
 WIDTH = 800
