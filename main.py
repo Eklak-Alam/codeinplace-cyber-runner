@@ -13,7 +13,8 @@ clock = pygame.time.Clock()
 FPS = 60
 
 # Fonts
-
+font = pygame.font.SysFont("Arial", 22, bold=True)
+title_font = pygame.font.SysFont("Arial", 50, bold=True)
 
 # Colors
 BG_COLOR = (10, 10, 15)  # Cinematic dark vibe
